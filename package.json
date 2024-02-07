@@ -14,6 +14,7 @@
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
     "@tomphttp/bare-server-node": "^2.0.1",
+    "@vercel/speed-insights": "^1.0.9",
     "cors": "^2.8.5",
     "express": "^4.18.2"
   },
@@ -22,4 +23,3 @@
     "prettier": "^3.0.3"
   }
 }
-
