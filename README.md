@@ -1,6 +1,7 @@
 <div align="center">
-    <h1>Interstellar V5</h1>
-    <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
+    <h1>Galatik X V4 | Interstellar V5</h1>
+    <h3>Interstellar is one of the most modern and popular unblocking sites.
+    Galatik X is one of the best unblockedgame sites. This is a updated modernized repo of interstellar!</h3>
     
 ### [Join our Discord!](https://discord.gg/interstellar)
 </div>
@@ -20,9 +21,9 @@
 
 <h2 align="center">Deployment</h2>
 
-You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other **static** Web Host.
+You can now deploy this repo to codesandbox, vercel, and Netlify.
 
-> **Note**
+.> **Note**
 > Join our [Discord Server](https://discord.gg/interstellar) for more options & tutorials.
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
