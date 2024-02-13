@@ -491,6 +491,13 @@ document.addEventListener("DOMContentLoaded", () => {
       error: false,
     },
     {
+      name: "Genshin Impact",
+      link: "https://now.gg/apps/cognosphere-pte-ltd-/1773/genshin-impact.html",
+      image: "/images/icons/now-gg.webp",
+      categories: ["all"],
+      error: false,
+    },
+    {
       name: "Bomb Party",
       link: "https://jklm.fun",
       image: "/images/icons/BP.png",
