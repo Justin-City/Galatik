@@ -204,8 +204,8 @@
     "categories": ["all", "stream", "media"]
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com",
+    "name": "X (Twitter)",
+    "link": "https://x.com",
     "image": "/assets/media/icons/twitter.webp",
     "categories": ["all", "social", "media"]
   },
